@@ -15,7 +15,7 @@ Primer proyecto sostenible propio de graduación en el programa de formación de
 
 [![Matriz Presupuestos](https://github.com/ecoruralia/SAMARITANO.COM/blob/main/images/matriz_presupuestos.png)]
 
-[![Ubicación](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)]
+[![Ubicación](https://github.com/ecoruralia/SAMARITANO.COM/blob/main/images/ubicacion.png)]
 
 [![Beneficios](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)]
 
