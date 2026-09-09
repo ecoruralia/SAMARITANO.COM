@@ -7,6 +7,8 @@ Primer proyecto sostenible propio de graduación en el programa de formación de
 
 [![Mapa Base](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)]
 
+[![Análisis FODA](https://github.com/ecoruralia/SAMARITANO.COM/blob/main/images/foda.png)]
+
 **Objetivo General** Mejorada la calidad de vida integral en Hombres y Mujeres de la microcomunidad de un  segmento de la manzana 1206 barrio de “Jayamá”
 
 **Objetivo Específico**  Contribuir al aprovechamiento de 7 patios y 3 azoteas  para  la producción  Agropecológica  y de plantas medicinales con uso de permacultura y tecnologías alternativas beneficiando a 3 Hombres y 7 Mujeres en un segmento de la manzana 1206 del barrio “Jayamá”
