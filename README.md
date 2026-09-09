@@ -5,7 +5,7 @@ Primer proyecto sostenible propio de graduación en el programa de formación de
 
 [![Portada](https://github.com/ecoruralia/SAMARITANO.COM/blob/main/images/portada.png)]
 
-[![Mapa Base](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)]
+[![Mapa Base](https://github.com/ecoruralia/SAMARITANO.COM/blob/main/images/mapa_base.png)]
 
 [![Análisis FODA](https://github.com/ecoruralia/SAMARITANO.COM/blob/main/images/foda.png)]
 
