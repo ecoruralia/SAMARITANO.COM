@@ -3,7 +3,7 @@ Sistema Agropecológico con caMinos Alternativos para pRoducir Integralmente ali
 
 Primer proyecto sostenible propio de graduación en el programa de formación de actores locales de desarrollo )PDS-ALD) del CIC de Cuba, obtuve mención y posteriormente aprobado para financiamiento de $3.200 USD + un cupo en el curso intensivo de 15 días para la formación en diseño e implememtación de tecnologías apropiadas del mismo departamento de proyectos sostenibles del CIC en la provincia de Sancti Spiritus, Cuba. 
 
-[![Portada](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)]
+[![Portada](https://github.com/ecoruralia/SAMARITANO.COM/blob/main/images/portada.png)]
 
 [![Mapa Base](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)]
 
